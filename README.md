@@ -1,3 +1,4 @@
+mod. by chaco
 [![Build Status](https://travis-ci.org/Vauxoo/odoo-peru.svg?branch=7.0)](https://travis-ci.org/Vauxoo/odoo-peru)
 
 Odoo Peruvian Localization
